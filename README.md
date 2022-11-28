@@ -5,8 +5,8 @@
 Web accessibility is an increasingly important consideration for businesses. It ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards. Making a website accessible is also good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google. It also helps companies avoid litigation that can occur when people with disabilities cannot access their website.
 
 ## Site & Repo
-* [Site](https://dj-86.github.io/horiseon/starter/index.html)
-* [Repo](https://github.com/DJ-86/horiseon/tree/main/starter)
+* [Site](https://dj-86.github.io/horiseon/site/index.html)
+* [Repo](https://github.com/DJ-86/horiseon)
 
 ## Resources:
 * [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
