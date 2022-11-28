@@ -17,10 +17,14 @@ Web accessibility is an increasingly important consideration for businesses. It 
 
 * ![Site](Assets/Site-screenshot.jpg)
 
-HTML before and after
-* ![Before](Assets/HTML-before.jpg)
-* ![After](Assets/HTML-after.jpg)
+## HTML
+### Before
+ ![Before](Assets/HTML-before.jpg)
+### After
+ ![After](Assets/HTML-after.jpg)
 
-CSS before and after
+## CSS
+### Before
 * ![Before](Assets/CSS-before.jpg)
+### After
 * ![After](Assets/CSS-after.jpg)
