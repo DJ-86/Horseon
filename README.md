@@ -15,14 +15,12 @@ Web accessibility is an increasingly important consideration for businesses. It 
 
 ### Screenshots
 
-* [Site](Assets/Site-screenshot.jpg)
+* ![Site](Assets/Site-screenshot.jpg)
 
 HTML before and after
-* [Before](Assets/HTML-before.jpg)
-* [After](Assets/HTML-after.jpg)
+* ![Before](Assets/HTML-before.jpg)
+* ![After](Assets/HTML-after.jpg)
 
 CSS before and after
-* [Before](Assets/CSS-before.jpg)
-* [After](Assets/CSS-after.jpg)
-
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](Assets/01-html-css-git-challenge-demo.png)
+* ![Before](Assets/CSS-before.jpg)
+* ![After](Assets/CSS-after.jpg)
