@@ -9,7 +9,6 @@ Web accessibility is an increasingly important consideration for businesses. It 
 * [Repo](https://github.com/DJ-86/horiseon/tree/main/starter)
 
 ## Resources:
-
 * [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
 * [Image `alt` attributes](https://www.w3schools.com/tags/att_img_alt.asp)
 
@@ -28,3 +27,6 @@ Web accessibility is an increasingly important consideration for businesses. It 
  ![Before](Assets/CSS-before.jpg)
 ### After
  ![After](Assets/CSS-after.jpg)
+
+##License
+* [MIT](LICENSE.md)
