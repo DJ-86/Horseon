@@ -28,5 +28,5 @@ Web accessibility is an increasingly important consideration for businesses. It 
 ### After
  ![After](Assets/CSS-after.jpg)
 
-##License
+## License
 * [MIT](LICENSE.md)
